@@ -1,0 +1,7 @@
+{
+  message: 'Failed to database connected Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.z8svvp5.mongodb.net',
+  level: 'error',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-06-05T06:11:13.243Z'
+}
