@@ -1,0 +1,7 @@
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'PH',
+  timestamp: '2023-06-09T10:13:33.533Z'
+}
+Fri Jun 09 2023 16:26:4  [PH] error: Error is comming

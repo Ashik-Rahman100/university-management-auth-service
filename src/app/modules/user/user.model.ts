@@ -1,7 +1,6 @@
-import { Model, Schema, model } from 'mongoose'
-import { IUser } from './users.interface'
+import { Schema, model } from 'mongoose';
+import { IUser, UserModel } from './user.interface';
 
-type UserModel = Model<IUser, object>
 // 2. user schema
 const userSchema = new Schema<IUser>(
   {
@@ -10,6 +9,6 @@ const userSchema = new Schema<IUser>(
     password: { type: String, required: true },
   },
   { timestamps: true }
-)
+);
 
-export const User = model<IUser, UserModel>('User', userSchema)
+export const User = model<IUser, UserModel>('User', userSchema);
