@@ -6,36 +6,6 @@
     "auditLog": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\.fac30b43876fc7fb4340af9ba3e80328d1148f54-audit.json",
     "files": [
         {
-            "date": 1685942777755,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-05-11-success.log",
-            "hash": "70e55cf135918ed142cc8cff45ae54e0b8a2f0484f7740c7541ee4019819e48e"
-        },
-        {
-            "date": 1685945446402,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-05-12-success.log",
-            "hash": "bda33217bacd4423fc0999e9b87183acd5f54eec3e50106d45004271dc759f90"
-        },
-        {
-            "date": 1685959860218,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-05-16-success.log",
-            "hash": "66ae27e61153371f287ce54a22b9ce7ef03da96410a6e607c27e283d7433c4db"
-        },
-        {
-            "date": 1686115724409,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-11-success.log",
-            "hash": "54bc92f8dd1103562bb46efb1b250f5233abbd7fc00e660c5ec5c73455eea059"
-        },
-        {
-            "date": 1686129681844,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-15-success.log",
-            "hash": "144038275aa6406683f11f7dea3983a91aca7d2cd5ec0d82ed64be6ca6bf5d7f"
-        },
-        {
-            "date": 1686153655494,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-22-success.log",
-            "hash": "4627f1581f99cdf51e9a8d5e0897d2125e87af7e92a1cfd1ce6a829d6124c88a"
-        },
-        {
             "date": 1686163876793,
             "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-08-00-success.log",
             "hash": "c7c4d9a6715d75d7f2c4b16b9ab7f4cab496a253503f95f185816b4731a5b264"
@@ -119,6 +89,61 @@
             "date": 1686817602433,
             "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-15-14-success.log",
             "hash": "6013e6d195298bb29151b9a02e7e7a58599453a035dccb68033b6b04de87e819"
+        },
+        {
+            "date": 1686842218080,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-15-21-success.log",
+            "hash": "c25857deb3eea74b815864499a47a84f4ff79d7f58041023baf077e8f75d39b8"
+        },
+        {
+            "date": 1687010648803,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-17-20-success.log",
+            "hash": "9f3127c9cf5d7a6fe37b503d6c9e607c9f1d7638740f2faff79d19b11c764cf9"
+        },
+        {
+            "date": 1687027972399,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-18-00-success.log",
+            "hash": "e8e797e449a911f8497fccec3d7f1ad70bea7f2bfd4bb707f04f5bdda605cae2"
+        },
+        {
+            "date": 1687028958622,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-18-01-success.log",
+            "hash": "c2d20524c05eb221c90bd28866e5b66034be6727273abf348aef29ec3ae04ca6"
+        },
+        {
+            "date": 1687032109935,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-18-02-success.log",
+            "hash": "dcb9bc6ffded7c55142bd030493ef0493b83914ca452cd2c483568b21e717ddc"
+        },
+        {
+            "date": 1687080393596,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-18-15-success.log",
+            "hash": "3fde4b4c36c5c7306d13bef24c9d7b7d5235eb823e815bf4db90ae216fbedfff"
+        },
+        {
+            "date": 1687110579238,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-18-23-success.log",
+            "hash": "f93648677950c432cb75095c0820443c8fc87fe45ca8f9bded06744afd6d31f9"
+        },
+        {
+            "date": 1687111361616,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-19-00-success.log",
+            "hash": "285ec8f636e0ca5307783fba77e02d0477b08843f754844420eb70dfe7830157"
+        },
+        {
+            "date": 1687114829721,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-19-01-success.log",
+            "hash": "8a7a8927d815a3be638ebfd378199c4f8f180fc3b531d09960c230a51676d089"
+        },
+        {
+            "date": 1687287787690,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-21-01-success.log",
+            "hash": "8b98ad2c567ecdcd38f63175c1cc0a4d24925c107917acb643be761d1661e0f4"
+        },
+        {
+            "date": 1687368355661,
+            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-21-23-success.log",
+            "hash": "ec23811a6ce323c6abc0998d66a447689c12e74e40c272588bfc775e67e8bcd4"
         }
     ],
     "hashType": "sha256"
