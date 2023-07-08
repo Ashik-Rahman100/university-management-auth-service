@@ -1,0 +1,4 @@
+Fri Jul 07 2023 23:4:24  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 23:19:38  [PH] error: Failed to database connected Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z8svvp5.mongodb.net
+Fri Jul 07 2023 23:22:8  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 23:24:37  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab" (type string) at path "_id" for model "AcademicSemester"

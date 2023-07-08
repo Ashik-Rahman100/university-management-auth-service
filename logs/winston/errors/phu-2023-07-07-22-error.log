@@ -1,0 +1,15 @@
+Fri Jul 07 2023 22:28:55  [PH] error: Failed to database connected Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.z8svvp5.mongodb.net
+Fri Jul 07 2023 22:30:47  [PH] error: Failed to database connected Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.z8svvp5.mongodb.net
+Fri Jul 07 2023 22:32:59  [PH] error: Cast to ObjectId failed for value "64a66847a6a1f68d2b" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:32:59  [PH] error: Cast to ObjectId failed for value "64a66847a6a1f68d2b" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:37:27  [PH] error: Cast to ObjectId failed for value "64a66847a6a1f68d2b" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:37:27  [PH] error: Cast to ObjectId failed for value "64a66847a6a1f68d2b" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:39:11  [PH] error: Cast to ObjectId failed for value "64a66847a6a1f68d2b" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:40:16  [PH] error: Cast to ObjectId failed for value "64a66847a6a1f68d2b" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:40:16  [PH] error: Cast to ObjectId failed for value "64a66847a6a1f68d2b" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:43:15  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:48:23  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:50:8  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:53:35  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:55:8  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"
+Fri Jul 07 2023 22:57:44  [PH] error: Cast to ObjectId failed for value "64a65fd63d6bab6134" (type string) at path "_id" for model "AcademicSemester"

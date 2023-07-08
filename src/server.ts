@@ -21,7 +21,6 @@ async function main() {
     errorLogger.error(`Failed to database connected ${error}`);
   }
   process.on('unhandledRejection', error => {
-    errorLogger.error(error);
     if (server) {
       server.close(() => {
         errorLogger.error(error);

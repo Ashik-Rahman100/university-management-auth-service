@@ -10,7 +10,7 @@ import {
 import {
   AcademicSemesterModel,
   IAcademicSemester,
-} from './academicSemester.interfate';
+} from './academicSemester.interface';
 
 // 2. user schema
 const academicSemesterSchema = new Schema<IAcademicSemester>(

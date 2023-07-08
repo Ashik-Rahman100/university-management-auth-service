@@ -25,8 +25,11 @@ app.use('/api/v1/', routes);
 
 // Gloibal error handler
 app.use(globalErrorHandler);
+//handle not found
+
+//handle not found
 app.use((req: Request, res: Response, next: NextFunction) => {
-  res.status(httpStatus.NOT_FOUND).send({
+  res.status(httpStatus.NOT_FOUND).json({
     success: false,
     message: 'Not Found',
     errorMessages: [

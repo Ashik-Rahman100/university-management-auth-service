@@ -1,0 +1,2 @@
+Thu Jul 06 2023 12:32:52  [PH] error: $regex has to be a string
+Thu Jul 06 2023 12:58:55  [PH] error: $and/$or/$nor must be a nonempty array
