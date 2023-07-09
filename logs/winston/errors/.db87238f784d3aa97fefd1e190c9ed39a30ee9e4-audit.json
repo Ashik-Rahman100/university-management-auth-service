@@ -1,150 +1,150 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\.db87238f784d3aa97fefd1e190c9ed39a30ee9e4-audit.json",
+  "files": [
+    {
+      "date": 1686163876819,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-00-error.log",
+      "hash": "d9e44860a56e2dd4db69a35209576950f8349334ad8c3a944d1bd36db85253b0"
     },
-    "auditLog": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\.db87238f784d3aa97fefd1e190c9ed39a30ee9e4-audit.json",
-    "files": [
-        {
-            "date": 1686163876819,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-00-error.log",
-            "hash": "d9e44860a56e2dd4db69a35209576950f8349334ad8c3a944d1bd36db85253b0"
-        },
-        {
-            "date": 1686164538607,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-01-error.log",
-            "hash": "745cae782729bc06138a144615a9b2acdea7629d08a69d077116e073ae7dac8a"
-        },
-        {
-            "date": 1686203576675,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-11-error.log",
-            "hash": "13d24d7a52a5cf689db3d03954ea3e0c0310955a94e0c8e97892f8ffd37c162a"
-        },
-        {
-            "date": 1686234460346,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-20-error.log",
-            "hash": "f785c117c77b5e580b7c888acc86216c571b628b279ffdf1b46ca7f8830b31b9"
-        },
-        {
-            "date": 1686253860687,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-01-error.log",
-            "hash": "c125260e670aa69092df77158b88cbe09350cf03800ccf5eacc2417c753a3c2c"
-        },
-        {
-            "date": 1686254557418,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-02-error.log",
-            "hash": "b67ea2f8ad4f740eac92f32312f2cbff3f6cdb228135351bcd7239716cbb14e1"
-        },
-        {
-            "date": 1686291838779,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-12-error.log",
-            "hash": "5e45ee2bcfd8ad99c01037ab557f46be89a9cebee53473f036fbd93cd27eb7a2"
-        },
-        {
-            "date": 1686303837411,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-15-error.log",
-            "hash": "27e45c83d18b16e778f07174150581c02e6065891e9948ecc2403e3806229b96"
-        },
-        {
-            "date": 1686305427852,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-16-error.log",
-            "hash": "45fcc71a54d149ada1d06272a68846054092a4ed8b8348e767508cedc995ad58"
-        },
-        {
-            "date": 1686473098198,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-11-14-error.log",
-            "hash": "23a7cd7c526fa0c3f99195af4da25fa7658a71be2729d356ba1eff42f1b81e60"
-        },
-        {
-            "date": 1686544836422,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-10-error.log",
-            "hash": "89c34211d442ef50803e94d7ff7b1aa64ec4666a083bc82fc941e8fad3fe3024"
-        },
-        {
-            "date": 1686567688252,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-17-error.log",
-            "hash": "8e5530c283fe4f4a37684504751b3bc1289d2844e99f79fcf97b9315b8b2dd04"
-        },
-        {
-            "date": 1686632210320,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-10-error.log",
-            "hash": "a636c7684ffd3e57d8f8d51b67f233fa15e1e942cd07e7e45158fb27df7aa354"
-        },
-        {
-            "date": 1686634094048,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-11-error.log",
-            "hash": "7f001a706cf404968b55107e19357a0b8f84b131482bc746672f03a2e66729f9"
-        },
-        {
-            "date": 1686806786713,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-11-error.log",
-            "hash": "fa9786a9d0ddae25a0e73e0e3ebff007c2df95fbb841b1e0eb3871130a389b8d"
-        },
-        {
-            "date": 1686809329977,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-12-error.log",
-            "hash": "9204f8e4a95e936509625339d0a5a7d12865592a920f01e8035590540d0d4d1f"
-        },
-        {
-            "date": 1686817602517,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-14-error.log",
-            "hash": "4b4c80c483c57db03621343e58a19a673600991b083275ff2d50276c75e94f73"
-        },
-        {
-            "date": 1686842218094,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-21-error.log",
-            "hash": "6e9daeb1e8819c062100b63ed180a7263fa6ff6ec4939dd6919f444e7b4aa40a"
-        },
-        {
-            "date": 1687010648874,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-17-20-error.log",
-            "hash": "43fd3cefccdd080cd2fd927aa6a6374d2220a0329c6f1178a1c26c9abc66f8c8"
-        },
-        {
-            "date": 1687027972445,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-00-error.log",
-            "hash": "2e306a9f59afa100432ac43c552903e8c49936858196d1e1f830064c6e5ea3d0"
-        },
-        {
-            "date": 1687028958640,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-01-error.log",
-            "hash": "f5e505a7dfb1563adeaf3d4d5edab82974b802fb766c71565083312622c10ada"
-        },
-        {
-            "date": 1687032109970,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-02-error.log",
-            "hash": "cbc08f4aabb0d599f8c8c14a45c261ee2194c292a4313c68c2362fe1828705a4"
-        },
-        {
-            "date": 1687080393679,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-15-error.log",
-            "hash": "00b750b16dc25e3d0e682f0a59940b6a3bdd860c7215b54edea24d2c49f76f9c"
-        },
-        {
-            "date": 1687110579355,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-23-error.log",
-            "hash": "edb54a18862e073724a721894a6a8afc1b7322ece17efedd4e3535cf889de5ee"
-        },
-        {
-            "date": 1687111361655,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-19-00-error.log",
-            "hash": "9f2baa8bb19b31989c517e640a51c9e05c7b8e75d7a5e2e6af0067d207ab9677"
-        },
-        {
-            "date": 1687114829749,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-19-01-error.log",
-            "hash": "fe00c728d68cd973a861bdf2c7c4cffdfa1e73fbe5847af109266106c8a8db60"
-        },
-        {
-            "date": 1687287787991,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-21-01-error.log",
-            "hash": "46d692af913d00e385b1f64a6c674aab7a528d79f6ca7e5435709b08fc47889f"
-        },
-        {
-            "date": 1687368355758,
-            "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-21-23-error.log",
-            "hash": "1c239988d09e37f17a044fa6eaa72863db46bea7d240fa4114bdf7036b01601c"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686164538607,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-01-error.log",
+      "hash": "745cae782729bc06138a144615a9b2acdea7629d08a69d077116e073ae7dac8a"
+    },
+    {
+      "date": 1686203576675,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-11-error.log",
+      "hash": "13d24d7a52a5cf689db3d03954ea3e0c0310955a94e0c8e97892f8ffd37c162a"
+    },
+    {
+      "date": 1686234460346,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-08-20-error.log",
+      "hash": "f785c117c77b5e580b7c888acc86216c571b628b279ffdf1b46ca7f8830b31b9"
+    },
+    {
+      "date": 1686253860687,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-01-error.log",
+      "hash": "c125260e670aa69092df77158b88cbe09350cf03800ccf5eacc2417c753a3c2c"
+    },
+    {
+      "date": 1686254557418,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-02-error.log",
+      "hash": "b67ea2f8ad4f740eac92f32312f2cbff3f6cdb228135351bcd7239716cbb14e1"
+    },
+    {
+      "date": 1686291838779,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-12-error.log",
+      "hash": "5e45ee2bcfd8ad99c01037ab557f46be89a9cebee53473f036fbd93cd27eb7a2"
+    },
+    {
+      "date": 1686303837411,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-15-error.log",
+      "hash": "27e45c83d18b16e778f07174150581c02e6065891e9948ecc2403e3806229b96"
+    },
+    {
+      "date": 1686305427852,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-09-16-error.log",
+      "hash": "45fcc71a54d149ada1d06272a68846054092a4ed8b8348e767508cedc995ad58"
+    },
+    {
+      "date": 1686473098198,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-11-14-error.log",
+      "hash": "23a7cd7c526fa0c3f99195af4da25fa7658a71be2729d356ba1eff42f1b81e60"
+    },
+    {
+      "date": 1686544836422,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-10-error.log",
+      "hash": "89c34211d442ef50803e94d7ff7b1aa64ec4666a083bc82fc941e8fad3fe3024"
+    },
+    {
+      "date": 1686567688252,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-12-17-error.log",
+      "hash": "8e5530c283fe4f4a37684504751b3bc1289d2844e99f79fcf97b9315b8b2dd04"
+    },
+    {
+      "date": 1686632210320,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-10-error.log",
+      "hash": "a636c7684ffd3e57d8f8d51b67f233fa15e1e942cd07e7e45158fb27df7aa354"
+    },
+    {
+      "date": 1686634094048,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-13-11-error.log",
+      "hash": "7f001a706cf404968b55107e19357a0b8f84b131482bc746672f03a2e66729f9"
+    },
+    {
+      "date": 1686806786713,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-11-error.log",
+      "hash": "fa9786a9d0ddae25a0e73e0e3ebff007c2df95fbb841b1e0eb3871130a389b8d"
+    },
+    {
+      "date": 1686809329977,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-12-error.log",
+      "hash": "9204f8e4a95e936509625339d0a5a7d12865592a920f01e8035590540d0d4d1f"
+    },
+    {
+      "date": 1686817602517,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-14-error.log",
+      "hash": "4b4c80c483c57db03621343e58a19a673600991b083275ff2d50276c75e94f73"
+    },
+    {
+      "date": 1686842218094,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-15-21-error.log",
+      "hash": "6e9daeb1e8819c062100b63ed180a7263fa6ff6ec4939dd6919f444e7b4aa40a"
+    },
+    {
+      "date": 1687010648874,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-17-20-error.log",
+      "hash": "43fd3cefccdd080cd2fd927aa6a6374d2220a0329c6f1178a1c26c9abc66f8c8"
+    },
+    {
+      "date": 1687027972445,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-00-error.log",
+      "hash": "2e306a9f59afa100432ac43c552903e8c49936858196d1e1f830064c6e5ea3d0"
+    },
+    {
+      "date": 1687028958640,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-01-error.log",
+      "hash": "f5e505a7dfb1563adeaf3d4d5edab82974b802fb766c71565083312622c10ada"
+    },
+    {
+      "date": 1687032109970,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-02-error.log",
+      "hash": "cbc08f4aabb0d599f8c8c14a45c261ee2194c292a4313c68c2362fe1828705a4"
+    },
+    {
+      "date": 1687080393679,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-15-error.log",
+      "hash": "00b750b16dc25e3d0e682f0a59940b6a3bdd860c7215b54edea24d2c49f76f9c"
+    },
+    {
+      "date": 1687110579355,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-18-23-error.log",
+      "hash": "edb54a18862e073724a721894a6a8afc1b7322ece17efedd4e3535cf889de5ee"
+    },
+    {
+      "date": 1687111361655,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-19-00-error.log",
+      "hash": "9f2baa8bb19b31989c517e640a51c9e05c7b8e75d7a5e2e6af0067d207ab9677"
+    },
+    {
+      "date": 1687114829749,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-19-01-error.log",
+      "hash": "fe00c728d68cd973a861bdf2c7c4cffdfa1e73fbe5847af109266106c8a8db60"
+    },
+    {
+      "date": 1687287787991,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-21-01-error.log",
+      "hash": "46d692af913d00e385b1f64a6c674aab7a528d79f6ca7e5435709b08fc47889f"
+    },
+    {
+      "date": 1687368355758,
+      "name": "D:\\Projects\\Web-Development\\Programming-Hero\\Next-Level-Web-2\\Mileston-3 NoSql database\\Module-11 Organize project professionally\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-21-23-error.log",
+      "hash": "1c239988d09e37f17a044fa6eaa72863db46bea7d240fa4114bdf7036b01601c"
+    }
+  ],
+  "hashType": "sha256"
 }

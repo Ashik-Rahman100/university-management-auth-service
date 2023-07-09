@@ -40,7 +40,7 @@ const academicSemesterSchema = new Schema<IAcademicSemester>(
       enum: academicSemesterMonths,
     },
   },
-  { timestamps: true }
+  { timestamps: true, toJSON: { virtuals: true } }
 );
 // Data --> check ? same year && same semester
 // Handle validation conflict  | duplicate data handle or validation ( exist semester and year )

@@ -14,12 +14,7 @@ const createSemester = catchAsync(async (req: Request, res: Response) => {
   const result = await AcademicSemesterService.createSemester(
     academicSemesterData
   );
-  // console.log(user)
-  // res.status(200).json({
-  //   success: true,
-  //   message: 'Academic semester create successfully.',
-  //   data: result,
-  // });
+
   sendResponse<IAcademicSemester>(res, {
     statusCode: httpStatus.OK,
     success: true,
@@ -56,7 +51,7 @@ const getAllSemesters = catchAsync(async (req: Request, res: Response) => {
 });
 
 // update semester controller
-// Get single semester
+
 const updateSemester = catchAsync(async (req: Request, res: Response) => {
   const id = req.params.id;
   const updatedData = req.body;
