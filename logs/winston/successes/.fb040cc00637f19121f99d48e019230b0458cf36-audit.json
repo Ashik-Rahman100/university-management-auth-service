@@ -6,51 +6,6 @@
     "auditLog": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\.fb040cc00637f19121f99d48e019230b0458cf36-audit.json",
     "files": [
         {
-            "date": 1688578687255,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-05-23-success.log",
-            "hash": "18f0c1e945d6142845dc35dec8a849c5af7c5430dc6b0aedebf3570eec77aa5e"
-        },
-        {
-            "date": 1688580457257,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-00-success.log",
-            "hash": "3f8c2845a9e3a2d47793444fd6be1180a60755addfa66818b07a087046340dd6"
-        },
-        {
-            "date": 1688584405092,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-01-success.log",
-            "hash": "f897e55725188a032c1ef2347b89dc93b8e96621c67532e3e88aadf1575579d3"
-        },
-        {
-            "date": 1688609367518,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-08-success.log",
-            "hash": "900c3a44211c66b073b41232a766928f5ef3b119aefc264ea2dc5c5097fedaf9"
-        },
-        {
-            "date": 1688614277480,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-09-success.log",
-            "hash": "3ed5d06650c2403277ca9554a7fae5096ccf92ae7ef761456685b6e56cae402c"
-        },
-        {
-            "date": 1688616889045,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-10-success.log",
-            "hash": "7ee68817a5d6e34d842d991acdfc674f36ca84ef79a660fe016af4bf839f33b0"
-        },
-        {
-            "date": 1688620900619,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-11-success.log",
-            "hash": "fc2f6d351fb0bacd5d5d17cfd0319656c53f23a54c40705207e97b720afce13e"
-        },
-        {
-            "date": 1688624789399,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-12-success.log",
-            "hash": "6f5348d732cb10b9e521214e4149f211302d3124d41c283d54120a7a3869080b"
-        },
-        {
-            "date": 1688627066387,
-            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-13-success.log",
-            "hash": "34b442e99473e01c44b4ab4b78c89e040cdad57a4f7859a5fd59cafa437244a5"
-        },
-        {
             "date": 1688642015943,
             "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-06-17-success.log",
             "hash": "4772e46f7a61703bd7495dcaaaea4abcca812b12f5a4ab0149754761620101bb"
@@ -199,6 +154,101 @@
             "date": 1688895632252,
             "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-09-15-success.log",
             "hash": "5fe4dd6a155a90b893ed1d0b25536389b80e5a43ae6579b3614e9b51a533c354"
+        },
+        {
+            "date": 1688898225253,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-09-16-success.log",
+            "hash": "d5affdfa498e3a3c6c385e093dbcc215975a1cb1263e902a1a551fbd69af82ad"
+        },
+        {
+            "date": 1689352587503,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-14-22-success.log",
+            "hash": "127fb0ed6d44eeaecc0c688b547da25993e76c6f8a22cd2b12b57f9c611187bd"
+        },
+        {
+            "date": 1689394112117,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-15-10-success.log",
+            "hash": "a9cd901bcb664425340613065ce8b24a6bd3a4c810449d0b2332c7a75009a57d"
+        },
+        {
+            "date": 1689530662964,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-17-00-success.log",
+            "hash": "519b1f1f386a3e920ae120fa9410c56a35eb117d9a3541c97e87162253a1276b"
+        },
+        {
+            "date": 1689567851146,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-17-10-success.log",
+            "hash": "612ab9fd7d44d47764638fb0e0eea1450cb8f3f7756ef80ee0a1e1bf23f057e9"
+        },
+        {
+            "date": 1689570185634,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-17-11-success.log",
+            "hash": "9df05c9cc5644be440bf7e7a7b266981e215241ccf8a461bcd1ec9c2b5e2d9df"
+        },
+        {
+            "date": 1689700241929,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-18-23-success.log",
+            "hash": "fbe32ddef33a0e6b186acf55d7d37c27a68360cf9a3ffdffd60e7aba65d88955"
+        },
+        {
+            "date": 1689736070666,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-19-09-success.log",
+            "hash": "0958b8fd87f5131249d9eb32ff3dbaecdc9eaa339fa45343e2cf76105cb4c619"
+        },
+        {
+            "date": 1689741955567,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-19-10-success.log",
+            "hash": "6e70c1deafd0064c5e5b2008eac768bc6b236a314fe0845f19c1af33cb19fbbb"
+        },
+        {
+            "date": 1689750659668,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-19-13-success.log",
+            "hash": "eaf731581235cf3d69f45a3abf15248f0964383c46cb314d3833fa161d9cb1c4"
+        },
+        {
+            "date": 1689756601942,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-19-14-success.log",
+            "hash": "bad11d6a5a4c13e049f40dd08c20d51ffb0623d738166b3169319623e86167c2"
+        },
+        {
+            "date": 1689766022489,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-19-17-success.log",
+            "hash": "0db58bf1871c5e220adcda392795cc376538b7646df5591e20f735c434c5c456"
+        },
+        {
+            "date": 1689768032642,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-19-18-success.log",
+            "hash": "704697bdc306c8f05534beb7b3a12f6203adbfb77baa41de839eab4d9dc66649"
+        },
+        {
+            "date": 1689834531719,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-20-12-success.log",
+            "hash": "263d5867246d1281bed0c0bd218723740115e91427ece7d87f8fc4f24f268e74"
+        },
+        {
+            "date": 1689836738434,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-20-13-success.log",
+            "hash": "6bea342dd304064d908718756b3648e6203adc084231a0b78c3d5e0809eb4bed"
+        },
+        {
+            "date": 1689840955504,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-20-14-success.log",
+            "hash": "95070d8dbf13eb1f3a5046542db247fe7f788384c42a8f3ca407646241e0d61f"
+        },
+        {
+            "date": 1689843604784,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-20-15-success.log",
+            "hash": "e7cdb99f7e77d2e6173d81a42ead66e862b99be8b14ea352e104048c73af87a8"
+        },
+        {
+            "date": 1689849393515,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-20-16-success.log",
+            "hash": "6de9e131d4a968ed84c5e7309e2f39f0dbed1e7711cae2069fcb116bb62394f9"
+        },
+        {
+            "date": 1689851143298,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-3\\Module-14\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-07-20-17-success.log",
+            "hash": "5c0880b776eb0c816cd8c252441f313f3e5d16e81e46cc5252697c4dcbe737ba"
         }
     ],
     "hashType": "sha256"

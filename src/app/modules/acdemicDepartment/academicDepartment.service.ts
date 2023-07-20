@@ -69,7 +69,7 @@ const getAllDepartment = async (
     .sort(sortConditions)
     .skip(skip)
     .limit(limit);
-  const total = await AcademicDepartment.countDocuments();
+  const total = await AcademicDepartment.countDocuments(whereConditions);
   return {
     meta: {
       page: page,

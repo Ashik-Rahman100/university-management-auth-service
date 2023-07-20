@@ -1,7 +1,7 @@
 import cors from 'cors';
 import express, { Application, NextFunction, Request, Response } from 'express';
 import httpStatus from 'http-status';
-import globalErrorHandler from './app/middlewares/globalErrorHander';
+import globalErrorHandler from './app/middlewares/globalErrorHandler';
 import routes from './app/routes';
 
 const app: Application = express();
@@ -41,5 +41,16 @@ app.use((req: Request, res: Response, next: NextFunction) => {
   });
   next();
 });
+// const academicSemester = {
+//   year: '2025',
+//   code: '01',
+// };
+
+// const testId = async () => {
+//   const testGenerateId = await generateFacultyId();
+//   console.log(testGenerateId);
+// };
+
+// testId();
 
 export default app;
