@@ -32,5 +32,19 @@ const createFaculty: RequestHandler = catchAsync(
     });
   }
 );
+// create user as a Admin in db
+const createAdmin: RequestHandler = catchAsync(
+  async (req: Request, res: Response) => {
+    const { admin, ...userData } = req.body;
+    const result = await UserService.createFaculty(admin, userData);
+    // console.log(user)
+    sendResponse(res, {
+      statusCode: httpStatus.OK,
+      success: true,
+      message: 'Admin create successfully.',
+      data: result,
+    });
+  }
+);
 
-export const UserController = { createStudent, createFaculty };
+export const UserController = { createStudent, createFaculty, createAdmin };
