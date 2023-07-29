@@ -22,6 +22,7 @@ const createStudent: RequestHandler = catchAsync(
 const createFaculty: RequestHandler = catchAsync(
   async (req: Request, res: Response) => {
     const { faculty, ...userData } = req.body;
+    console.log(req.cookies, 'cookie');
     const result = await UserService.createFaculty(faculty, userData);
     // console.log(user)
     sendResponse(res, {
@@ -36,7 +37,7 @@ const createFaculty: RequestHandler = catchAsync(
 const createAdmin: RequestHandler = catchAsync(
   async (req: Request, res: Response) => {
     const { admin, ...userData } = req.body;
-    const result = await UserService.createFaculty(admin, userData);
+    const result = await UserService.createAdmin(admin, userData);
     // console.log(user)
     sendResponse(res, {
       statusCode: httpStatus.OK,

@@ -1,0 +1,1 @@
+Wed Jul 26 2023 16:40:49  [PH] error: Failed to database connected MongooseServerSelectionError: getaddrinfo ENOTFOUND ac-bdupq93-shard-00-01.z8svvp5.mongodb.net

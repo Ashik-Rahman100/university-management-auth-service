@@ -1,0 +1,4 @@
+Tue Jul 25 2023 0:44:5  [PH] error: E11000 duplicate key error collection: university-management.admins index: id_1 dup key: { id: "A-00003" }
+Tue Jul 25 2023 0:46:26  [PH] error: E11000 duplicate key error collection: university-management.admins index: id_1 dup key: { id: "A-00003" }
+Tue Jul 25 2023 0:49:11  [PH] error: E11000 duplicate key error collection: university-management.admins index: id_1 dup key: { id: "A-00003" }
+Tue Jul 25 2023 0:54:43  [PH] error: Faculty validation failed: academicFaculty: Cast to ObjectId failed for value "academicDepartment" (type string) at path "academicFaculty" because of "BSONError"

@@ -7,7 +7,7 @@ const router = express.Router();
 // create a User as a Student
 router.post(
   '/create-student',
-  validateRequest(UserValidation.createUserZodSchema),
+  validateRequest(UserValidation.createStudentZodSchema),
   UserController.createStudent
 );
 // create a User as a Faculty

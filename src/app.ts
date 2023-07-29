@@ -1,3 +1,4 @@
+import cookieParser from 'cookie-parser';
 import cors from 'cors';
 import express, { Application, NextFunction, Request, Response } from 'express';
 import httpStatus from 'http-status';
@@ -6,6 +7,8 @@ import routes from './app/routes';
 
 const app: Application = express();
 
+// read cookie
+app.use(cookieParser());
 // cors setup
 app.use(cors());
 
@@ -14,14 +17,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 // Application Routes
 app.use('/api/v1/', routes);
-
-// // Testing
-// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
-//   // res.send('Working succesfully')
-//   throw new Error('Error is comming')
-//   // Promise.reject(new Error('unhandle promise rejection.'))
-//   // next('Error is comming...')
-// })
 
 // Gloibal error handler
 app.use(globalErrorHandler);
