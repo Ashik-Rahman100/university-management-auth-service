@@ -18,6 +18,9 @@ const userSchema = new Schema<IUser, UserModel>(
       type: Boolean,
       default: true,
     },
+    passwordChangedAt: {
+      type: Date,
+    },
     faculty: {
       type: Schema.Types.ObjectId,
       ref: 'Faculty',
@@ -49,6 +52,11 @@ userSchema.statics.isMatchedPassword = async function (
 ): Promise<boolean> {
   return await bcrypt.compare(givenPassword, savedPassword);
 };
+userSchema.methods.changedPasswordAfterJwtIssued = function (
+  jwtTimestamp: number
+) {
+  console.log({ jwtTimestamp }, 'hi');
+};
 
 // Using mongoose pre Hooks
 userSchema.pre('save', async function (next) {
@@ -58,6 +66,11 @@ userSchema.pre('save', async function (next) {
     user.password,
     Number(config.bcrypt_salt_rounds)
   );
+
+  if (!user.needsPasswordChange) {
+    user.passwordChangedAt = new Date();
+  }
+
   next();
 });
 

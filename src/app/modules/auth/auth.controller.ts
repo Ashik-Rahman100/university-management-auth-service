@@ -28,6 +28,19 @@ const loginUser = catchAsync(async (req: Request, res: Response) => {
     data: otherData,
   });
 });
+// create Department in db
+const changePassword = catchAsync(async (req: Request, res: Response) => {
+  //   console.log(req.body);
+  const user = req.user;
+  const { ...passwordData } = req.body;
+  const result = await AuthService.changePassword(user, passwordData);
+  sendResponse(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'User Password change successfully.',
+    data: result,
+  });
+});
 // create Refresh Token Handler
 const refreshToken = catchAsync(async (req: Request, res: Response) => {
   //   console.log(req.body);
@@ -46,4 +59,4 @@ const refreshToken = catchAsync(async (req: Request, res: Response) => {
   });
 });
 
-export const AuthController = { loginUser, refreshToken };
+export const AuthController = { loginUser, refreshToken, changePassword };

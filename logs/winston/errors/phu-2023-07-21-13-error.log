@@ -1,1 +1,0 @@
-Fri Jul 21 2023 13:27:17  [PH] error: Faculty validation failed: academicDepartment: Path `academicDepartment` is required., academicFaculty: Path `academicFaculty` is required.

@@ -10,3 +10,7 @@ export type ILoginUserResponse = {
   refreshToken?: string;
   needsPasswordChange: boolean;
 };
+export type IChangePassword = {
+  oldPassword: string;
+  newPassword: string;
+};
