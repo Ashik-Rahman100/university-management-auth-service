@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\.2438edc9b8a8f2e0edb41467236fb23250664eed-audit.json",
+    "files": [
+        {
+            "date": 1695983964019,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-29-16-error.log",
+            "hash": "706a7ef7d8e5f0e8f024981593fd222c518b5a3498dfcb38f5b2dc0b721a6b05"
+        },
+        {
+            "date": 1696002183977,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-29-21-error.log",
+            "hash": "0e066aed7fd9f532c6cddf4c214a02aee31f98cf4eef25f6ab07cfb1f81f96ee"
+        },
+        {
+            "date": 1696007840526,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-29-23-error.log",
+            "hash": "d99e34771cf0195b508aa20ff9b65318a073770938bfeb1e5e28ceaa157df3ba"
+        },
+        {
+            "date": 1696080712082,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-30-19-error.log",
+            "hash": "73118161e7585b2ae610dc447bd91be17f46adab1665e5a53bfda63c85fea282"
+        },
+        {
+            "date": 1696199507755,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-02-04-error.log",
+            "hash": "9081d7636a48da783655f610cd585a95dd493e287cebf8dcccddd02962b607ce"
+        },
+        {
+            "date": 1696329073768,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-03-16-error.log",
+            "hash": "e2a6acb1ab15c381dddbd09de2686b6558f6e23be544c7fe5fc7915c510dd0fc"
+        },
+        {
+            "date": 1696355095619,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-03-23-error.log",
+            "hash": "d626a5e8a5c2cfa9f668ddb185781e52da0c89684998958d1c044776e980b82b"
+        },
+        {
+            "date": 1696608728973,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-22-error.log",
+            "hash": "a4acbdeebea9521da42db34a951db85791eeeb2ae3154c922a6a46f96c6807a8"
+        },
+        {
+            "date": 1696685435063,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-07-19-error.log",
+            "hash": "5ef2574f1dee09aba07c6217cf566930c089d2607124722d6fe03253fd1e9ba5"
+        },
+        {
+            "date": 1696791978646,
+            "name": "D:\\Programming-Hero\\Next-Level-Course\\Mileston-7 Be a Frontend First learner\\Module-50 UM-Frontend-Part-2\\Backend\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-09-01-error.log",
+            "hash": "e96c297a33872f15660e380b2a4f22c17287c1abf587f63276b886470d5646c4"
+        }
+    ],
+    "hashType": "sha256"
+}

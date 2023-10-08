@@ -2,7 +2,7 @@ import { SortOrder } from 'mongoose';
 import { paginationHelpers } from '../../../helpers/paginationHelper';
 import { IGenericResponse } from '../../../interfaces/common';
 import { IPaginationOptions } from '../../../interfaces/pagination';
-import { ManagementDepartmentFilterableFields } from './managementDepartment.constant';
+import { ManagementDepartmentSearchableFields } from './managementDepartment.constant';
 import {
   IManagementDepartment,
   IManagementDepartmentFilters,
@@ -37,7 +37,7 @@ const getAllManagementDepartment = async (
   // Search needs $or for searching in specified fields
   if (searchTerm) {
     andConditions.push({
-      $or: ManagementDepartmentFilterableFields.map(field => ({
+      $or: ManagementDepartmentSearchableFields.map(field => ({
         [field]: {
           $regex: searchTerm,
           $options: 'i',
@@ -45,7 +45,7 @@ const getAllManagementDepartment = async (
       })),
     });
   }
-  // Dynamic Filters Data
+  // Filters needs $and to fullfill all the conditions
   if (Object.keys(filtersData).length) {
     andConditions.push({
       $and: Object.entries(filtersData).map(([field, value]) => ({
@@ -53,6 +53,7 @@ const getAllManagementDepartment = async (
       })),
     });
   }
+
   // Dynamic  Sort needs  field to  do sorting
   const sortConditions: { [key: string]: SortOrder } = {};
   if (sortBy && sortOrder) {
@@ -60,14 +61,13 @@ const getAllManagementDepartment = async (
   }
   const whereConditions =
     andConditions.length > 0 ? { $and: andConditions } : {};
+
   const result = await ManagementDepartment.find(whereConditions)
-    .populate('academicFaculty')
-    .populate('academicDepartment')
     .sort(sortConditions)
     .skip(skip)
     .limit(limit);
 
-  const total = await ManagementDepartment.countDocuments(whereConditions);
+  const total = await ManagementDepartment.countDocuments();
 
   return {
     meta: {
